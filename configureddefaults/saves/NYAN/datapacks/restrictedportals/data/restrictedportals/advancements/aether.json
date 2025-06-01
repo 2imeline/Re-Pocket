@@ -1,0 +1,1 @@
+{"display":{"icon":{"item":"likepe:dead_aether_reactor_core"},"title":"Aether Unlocked!","description":"Obtain a Dead Aether Reactor Core"},"parent":"restrictedportals:root","criteria":{"aether":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["likepe:dead_aether_reactor_core"]}]}}},"requirements":[["aether"]]}

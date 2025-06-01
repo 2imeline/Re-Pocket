@@ -1,0 +1,13 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2020-02-24 17:34:51 -0500",
+      "minecraft:deep_cold_ocean": "2020-02-24 17:36:32 -0500",
+      "minecraft:beach": "2020-02-24 17:36:24 -0500",
+      "minecraft:birch_forest_hills": "2020-02-24 17:35:29 -0500",
+      "minecraft:plains": "2020-02-24 17:32:20 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

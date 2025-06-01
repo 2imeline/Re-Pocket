@@ -1,0 +1,13 @@
+name = "Restricted Portals"
+filename = "restrictedportals-fabric-1.20.1-1.5.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kGd0Bwtw/versions/pkNSyKgw/restrictedportals-fabric-1.20.1-1.5.0.jar"
+hash-format = "sha512"
+hash = "079837152afa51259ea8ce626d6a4785a65437f9dadeb42ff81b6bb83f8a6dcacfca1637f2d265e6e597928b786ae238f86134225821d88fcefbf8716b7e4fd3"
+
+[update]
+[update.modrinth]
+mod-id = "kGd0Bwtw"
+version = "pkNSyKgw"

@@ -1,0 +1,1 @@
+{"display":{"icon":{"item":"likepe:dead_nether_reactor_core"},"title":"Nether Unlocked!","description":"Obtain a Dead Nether Reactor Core"},"parent":"restrictedportals:root","criteria":{"nether":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":["likepe:dead_nether_reactor_core"]}]}}},"requirements":[["nether"]]}

@@ -1,0 +1,13 @@
+name = "Roses"
+filename = "roses_mod-4.0+1.20-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hxo4BmMk/versions/nc1PKFZE/roses_mod-4.0%2B1.20-1.20.4.jar"
+hash-format = "sha512"
+hash = "22e2843cb77266d85f7e96af6ccaa3e45c2661e6d5b7a9888c7e1ada39dfc1d93c1e6c9a4851fc17695dc86699e6bc99e63a7bd0d808f5a190c01ea3d27b9e5a"
+
+[update]
+[update.modrinth]
+mod-id = "Hxo4BmMk"
+version = "nc1PKFZE"

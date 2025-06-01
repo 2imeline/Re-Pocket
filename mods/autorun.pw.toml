@@ -1,0 +1,13 @@
+name = "Auto-Run"
+filename = "autorun-1.20.X-0.5.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2i7tg1Wv/versions/lFe6bXgE/autorun-1.20.X-0.5.0.jar"
+hash-format = "sha512"
+hash = "3c90a8a1d9a8effa1eb5a391aad8ee80a169335bd04bb2f72f1162a92073f2b49a51176d9abe1bcd98450080b04a4b9a3655873389a11f049bbc48c579fcf335"
+
+[update]
+[update.modrinth]
+mod-id = "2i7tg1Wv"
+version = "lFe6bXgE"

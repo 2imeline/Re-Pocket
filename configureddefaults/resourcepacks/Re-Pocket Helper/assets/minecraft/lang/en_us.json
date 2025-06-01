@@ -1,0 +1,8 @@
+{
+	"item.minecraft.zombified_piglin_spawn_egg": "Zombie Pigman Spawn Egg",
+	"entity.minecraft.zombified_piglin": "Zombie Pigman",
+	"subtitles.entity.zombified_piglin.ambient": "Zombie Pigman grunts",
+	"subtitles.entity.zombified_piglin.angry": "Zombie Pigman grunts angrily",
+	"subtitles.entity.zombified_piglin.death": "Zombie Pigman dies",
+	"subtitles.entity.zombified_piglin.hurt": "Zombie Pigman hurts"
+}

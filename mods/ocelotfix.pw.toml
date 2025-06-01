@@ -1,0 +1,13 @@
+name = "OcelotFix"
+filename = "ocelotfix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/198ZdUr2/versions/PFpILIB8/ocelotfix-1.0.0.jar"
+hash-format = "sha512"
+hash = "b520d8d4cdaa4b3bdb80e89e9f6343bc6327f34fb90925cdce6d40fd104cc73e2b4895590ad7e442405ba56e1e29f6681e636e7db2b7a5ea4b9efd685a7464c8"
+
+[update]
+[update.modrinth]
+mod-id = "198ZdUr2"
+version = "PFpILIB8"

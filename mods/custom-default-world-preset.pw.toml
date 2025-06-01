@@ -1,0 +1,13 @@
+name = "Custom Default World Preset"
+filename = "custom-default-world-preset-1.0.2+mc.1.19.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1BduonQp/versions/olxL7efI/custom-default-world-preset-1.0.2%2Bmc.1.19.3.jar"
+hash-format = "sha512"
+hash = "3a9f9aeed18889f5e83a0080e7a1831dc2900007952d287fabba7e66d3f4e10be1fa86bbf3b0ba46a581e7fe5ce0ffb88cf6a6021eaac74766d79e40cd3e81ba"
+
+[update]
+[update.modrinth]
+mod-id = "1BduonQp"
+version = "olxL7efI"

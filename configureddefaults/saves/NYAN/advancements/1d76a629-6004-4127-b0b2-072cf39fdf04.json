@@ -1,0 +1,21 @@
+{
+  "restrictedportals:root": {
+    "criteria": {
+      "root": "2025-05-23 23:46:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-23 23:46:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-05-23 23:46:42 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

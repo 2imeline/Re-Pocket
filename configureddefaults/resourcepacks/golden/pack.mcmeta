@@ -1,0 +1,16 @@
+{
+  "overlays": {
+    "entries": [
+      {"directory": "bat_update", "formats": [20, 100]},
+      {"directory": "shader_fun", "formats": [36, 55]},
+      {"directory": "item_definitions", "formats": [45, 100]},
+      {"directory": "no_rotation_snap", "formats": [57, 100]},
+      {"directory": "shaders_25w19a", "formats": [60, 100]}
+    ]
+  },
+  "pack": {
+    "description": "§6Golden Days §8- §2Base §7(Beta)\n§8by PoeticRainbow",
+    "pack_format": 15,
+    "supported_formats": {"max_inclusive": 420, "min_inclusive": 15}
+  }
+}

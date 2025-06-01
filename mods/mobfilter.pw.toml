@@ -1,0 +1,13 @@
+name = "Mob Filter"
+filename = "mobfilter-0.4.3+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gRn1FzwR/versions/n8tOB06w/mobfilter-0.4.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "80b3aff28b8d9ced8fe75847f4691087f72f848fe94eb3b4acd6845c3d09e2a00377d7a43676cb8fc071e1d3d552f002d4b545b8b9e081e3631b3dc191cd03e0"
+
+[update]
+[update.modrinth]
+mod-id = "gRn1FzwR"
+version = "n8tOB06w"

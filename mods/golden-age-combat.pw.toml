@@ -1,0 +1,13 @@
+name = "Golden Age Combat"
+filename = "GoldenAgeCombat-v8.0.3-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U5I04KQ6/versions/aOKGCHOu/GoldenAgeCombat-v8.0.3-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "b66b48d0b5df3f9d66419440b31892ae353a17638132e411531409de1d78d5f42ee0a31b6125621f681f5a0dbd4c78bb64c310a01933403695d8e3741b0292fa"
+
+[update]
+[update.modrinth]
+mod-id = "U5I04KQ6"
+version = "aOKGCHOu"
