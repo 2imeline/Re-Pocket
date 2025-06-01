@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = pe_settings_game
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1748761592579
+  last_edited_time = 1748803319377
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:82e610b4-96ed-47d9-8b96-50e30a17ab83-1748761561023] = [groups:][instances:]
+  [loading_requirement_container_meta:c471752d-4abf-4cc0-94a2-b480cd92b2ea-1748803309611] = [groups:][instances:]
 }
 
 customization {
@@ -999,9 +999,8 @@ element {
   label = 
   navigatable = true
   widget_active_state_requirement_container_identifier = 17748e2e-6c7d-41e8-8027-24f05eb9f528-1748738412734
-  [loading_requirement_container_meta:17748e2e-6c7d-41e8-8027-24f05eb9f528-1748738412734] = [groups:][instances:3265a65e-7335-4234-b4ba-ee53650ff74f-1748739045361;e5566e8d-ab74-43f5-92ed-a56085baf135-1748761583084;]
+  [loading_requirement_container_meta:17748e2e-6c7d-41e8-8027-24f05eb9f528-1748738412734] = [groups:][instances:3265a65e-7335-4234-b4ba-ee53650ff74f-1748739045361;]
   [loading_requirement:fancymenu_loading_requirement_is_multiplayer][requirement_mode:if_not][req_id:3265a65e-7335-4234-b4ba-ee53650ff74f-1748739045361] = 
-  [loading_requirement:fancymenu_loading_requirement_is_world_loaded][requirement_mode:if_not][req_id:e5566e8d-ab74-43f5-92ed-a56085baf135-1748761583084] = 
   is_template = false
   template_apply_width = false
   template_apply_height = false
