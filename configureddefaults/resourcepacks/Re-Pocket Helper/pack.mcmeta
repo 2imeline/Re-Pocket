@@ -2,7 +2,7 @@
     "pack": {
         "pack_format": 15,
 		"supported_formats": [15, 32],
-        "description": ":3"
+        "description": "Assets for the Re-Pocket Modpack"
     },
 	"overlays": {
 		"entries": [
