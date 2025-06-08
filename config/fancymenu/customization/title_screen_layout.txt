@@ -38,7 +38,7 @@ layout_action_executable_blocks {
 
 element {
   interactable = true
-  source = Re-Pocket v0.8.3
+  source = Re-Pocket v0.8.4
   source_mode = direct
   shadow = true
   scale = 1.0
