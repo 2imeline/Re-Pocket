@@ -1,0 +1,13 @@
+name = "Elytra Physics"
+filename = "elytra_physics-fabric-2.1_mc1.19.3+.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jfvCMH0K/versions/ttk2aR6d/elytra_physics-fabric-2.1_mc1.19.3%2B.jar"
+hash-format = "sha512"
+hash = "16e178c02c9194419ad4bb20b655c2a99772f6160f1c526e8cc1abd6bec22093b5dfbfe3405b777e31911a50e8ce54d8a4224a141fee43ac4191284b3b13dfb3"
+
+[update]
+[update.modrinth]
+mod-id = "jfvCMH0K"
+version = "ttk2aR6d"

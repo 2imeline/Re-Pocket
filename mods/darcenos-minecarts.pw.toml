@@ -1,0 +1,13 @@
+name = "Darceno's Minecarts"
+filename = "darcenos-minecarts-slower.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RZw0JtqY/versions/jFNYTraq/darcenos-minecarts-slower.1.3.jar"
+hash-format = "sha512"
+hash = "d5d50de7e7ff71a6f39097046a0971aca5480f024c68c239a56b526fb38e92e998da10118790c057f795197e8f4c34f147dbafb035e055ec2b32569f204bac00"
+
+[update]
+[update.modrinth]
+mod-id = "RZw0JtqY"
+version = "jFNYTraq"

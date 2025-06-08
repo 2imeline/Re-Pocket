@@ -1,0 +1,13 @@
+name = "Vanadium"
+filename = "vanadium-0.1.675.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lS2PKjpV/versions/qmNzn2ya/vanadium-0.1.675.jar"
+hash-format = "sha512"
+hash = "acb8f6675ca37ca5d9c9236e128bb719515f89db7102d9aab5b1a0cac225aea80abfbfda04321c7e592580f7a5a905c6eeca9631dfc7f70b97f04b45150eab67"
+
+[update]
+[update.modrinth]
+mod-id = "lS2PKjpV"
+version = "qmNzn2ya"

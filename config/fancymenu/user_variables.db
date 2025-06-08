@@ -1,0 +1,8 @@
+type = user_variables
+
+variable {
+  name = target_difficulty_name
+  value = hard
+  reset_on_launch = false
+}
+
