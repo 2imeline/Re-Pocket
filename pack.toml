@@ -1,12 +1,12 @@
 name = "Re-Pocket"
 author = "2imeline"
-version = "0.8.3"
+version = "0.8.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "48022d12039729e7f78202817dc0ee5f0260490081513a74b960e606d546d392"
+hash = "bbf984c6bd403d1d6486dcac2d35cc25a127c00a9787b94ce404eb3e26ff87c3"
 
 [versions]
 fabric = "0.16.14"

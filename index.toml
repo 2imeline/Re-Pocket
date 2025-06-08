@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Open Packwiz.bat"
+hash = "0aba63c7d5f79afe9e9c643826007fd9373968cf56b871917d5938fc4a0c99e8"
+
+[[files]]
+file = "README.md"
+hash = "7d8a7cf726c40ff2d1accd0cbfe9d237a9081a36e5bb06e705faab51b95640bf"
+
+[[files]]
 file = "config/bedrockify/bedrockifyClient.json"
 hash = "04f6d16c370c06cb8637642191bde66e973586ddbd6bb1410c9c58caabb76126"
 
@@ -246,7 +254,7 @@ hash = "8cb9dfc835b18ba1eaf9ab014e8bb0e5f2b4845862b296564991329387314991"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "911c7c05fde19adb6fae7070b5f90c6628789dfe32edf469dda0065ca99c8839"
+hash = "749bfefdb423efe42729178b644f355fd8b5da0444ea4bc11ca0f4a0c376c8a3"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -315,6 +323,10 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "442d44e0783149761e823d365e77438dabc8205af46c92d2d085c6eadaf84c66"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "765911d6788ce7c16345e46c9a8751e0e79ecf443fdafefb16dcd14c6a979599"
 
 [[files]]
 file = "config/mobfilter.json5"
@@ -1752,14 +1764,6 @@ hash = "d38a91d397c28f4a710128cad5a444a912eddd0bdbc6632c36465a3673b0ae17"
 [[files]]
 file = "saves/NYAN/datapacks/restrictedportals/pack.mcmeta"
 hash = "df2fb521894e1295a79fe52cd62ea4930f9d406ebe528ce67d918efaa06ec14b"
-
-[[files]]
-file = "saves/NYAN/dimensions/aether/the_aether/data/cardinal_world_components.dat"
-hash = "d7f8374d0e3c3bf7932499c576a52b4bb7d8c9ab79155050203907043eb83dc9"
-
-[[files]]
-file = "saves/NYAN/dimensions/aether/the_aether/data/raids.dat"
-hash = "d8b48fd6ebd83054506a950c45313cbc0c237aba116e14c79e70abc448fe44e1"
 
 [[files]]
 file = "saves/NYAN/entities/r.-1.-1.mca"
